@@ -1,6 +1,6 @@
 // Jalankan kode ini di console browser saat berada di halaman https://onprover.orochi.network/
 
-const referralCode = "KODE_REFERRAL_ANDA"; // Ganti dengan kode referral Anda
+const referralCode = "KODE_REFERRAL_ANDA"; // Ganti dengan kode referral Anda oke
 const jumlahAkun = 3; // Jumlah akun yang ingin dibuat
 
 function generateRandomEmail() {
